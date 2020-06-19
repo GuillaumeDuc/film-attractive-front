@@ -10,9 +10,8 @@ class Filmattractive extends Component {
     };
     this.handleClick = this.handleClick.bind(this);
   }
-  handleClick() {
-    const info = "Clicked";
-    this.setState({ info });
+  handleClick(city) {
+    this.setState({ info: city });
   }
   render() {
     return (
