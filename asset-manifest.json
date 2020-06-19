@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/film-attractive-front/static/css/main.b2a0909d.chunk.css",
-    "main.js": "/film-attractive-front/static/js/main.63249328.chunk.js",
-    "main.js.map": "/film-attractive-front/static/js/main.63249328.chunk.js.map",
+    "main.css": "/film-attractive-front/static/css/main.be68272f.chunk.css",
+    "main.js": "/film-attractive-front/static/js/main.7b294afd.chunk.js",
+    "main.js.map": "/film-attractive-front/static/js/main.7b294afd.chunk.js.map",
     "runtime-main.js": "/film-attractive-front/static/js/runtime-main.81fcb1fc.js",
     "runtime-main.js.map": "/film-attractive-front/static/js/runtime-main.81fcb1fc.js.map",
     "static/css/2.7c35e809.chunk.css": "/film-attractive-front/static/css/2.7c35e809.chunk.css",
-    "static/js/2.dc3490ab.chunk.js": "/film-attractive-front/static/js/2.dc3490ab.chunk.js",
-    "static/js/2.dc3490ab.chunk.js.map": "/film-attractive-front/static/js/2.dc3490ab.chunk.js.map",
+    "static/js/2.9856aaf8.chunk.js": "/film-attractive-front/static/js/2.9856aaf8.chunk.js",
+    "static/js/2.9856aaf8.chunk.js.map": "/film-attractive-front/static/js/2.9856aaf8.chunk.js.map",
     "index.html": "/film-attractive-front/index.html",
-    "precache-manifest.a804816cecf990dec77644ac641d921d.js": "/film-attractive-front/precache-manifest.a804816cecf990dec77644ac641d921d.js",
+    "precache-manifest.8519084592f4cafd1ab9b60a6e9abb69.js": "/film-attractive-front/precache-manifest.8519084592f4cafd1ab9b60a6e9abb69.js",
     "service-worker.js": "/film-attractive-front/service-worker.js",
     "static/css/2.7c35e809.chunk.css.map": "/film-attractive-front/static/css/2.7c35e809.chunk.css.map",
-    "static/css/main.b2a0909d.chunk.css.map": "/film-attractive-front/static/css/main.b2a0909d.chunk.css.map",
-    "static/js/2.dc3490ab.chunk.js.LICENSE.txt": "/film-attractive-front/static/js/2.dc3490ab.chunk.js.LICENSE.txt"
+    "static/css/main.be68272f.chunk.css.map": "/film-attractive-front/static/css/main.be68272f.chunk.css.map",
+    "static/js/2.9856aaf8.chunk.js.LICENSE.txt": "/film-attractive-front/static/js/2.9856aaf8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.81fcb1fc.js",
     "static/css/2.7c35e809.chunk.css",
-    "static/js/2.dc3490ab.chunk.js",
-    "static/css/main.b2a0909d.chunk.css",
-    "static/js/main.63249328.chunk.js"
+    "static/js/2.9856aaf8.chunk.js",
+    "static/css/main.be68272f.chunk.css",
+    "static/js/main.7b294afd.chunk.js"
   ]
 }
