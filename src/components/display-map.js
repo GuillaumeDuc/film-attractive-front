@@ -19,13 +19,13 @@ class DisplayMap extends Component {
   }
 
   async componentDidMount() {
-    const countries = await infos.map(async (c) => {
-      const loc = await this.getLocalisation(c);
-      if (loc) {
-        return { long: loc.longt, lat: loc.latt, city: loc.city };
-      }
-    });
-    await this.setState({ countries });
+    // const countries = await infos.map(async (c) => {
+    //  const loc = await this.getLocalisation(c);
+    //  if (loc) {
+    //    return { long: loc.longt, lat: loc.latt, city: loc.city };
+    //  }
+    //});
+    //await this.setState({ countries });
   }
 
   async getLocalisation(city) {
