@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/film-attractive-front/static/css/main.b2a0909d.chunk.css",
+    "main.js": "/film-attractive-front/static/js/main.63249328.chunk.js",
+    "main.js.map": "/film-attractive-front/static/js/main.63249328.chunk.js.map",
+    "runtime-main.js": "/film-attractive-front/static/js/runtime-main.81fcb1fc.js",
+    "runtime-main.js.map": "/film-attractive-front/static/js/runtime-main.81fcb1fc.js.map",
+    "static/css/2.7c35e809.chunk.css": "/film-attractive-front/static/css/2.7c35e809.chunk.css",
+    "static/js/2.dc3490ab.chunk.js": "/film-attractive-front/static/js/2.dc3490ab.chunk.js",
+    "static/js/2.dc3490ab.chunk.js.map": "/film-attractive-front/static/js/2.dc3490ab.chunk.js.map",
+    "index.html": "/film-attractive-front/index.html",
+    "precache-manifest.a804816cecf990dec77644ac641d921d.js": "/film-attractive-front/precache-manifest.a804816cecf990dec77644ac641d921d.js",
+    "service-worker.js": "/film-attractive-front/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/film-attractive-front/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.b2a0909d.chunk.css.map": "/film-attractive-front/static/css/main.b2a0909d.chunk.css.map",
+    "static/js/2.dc3490ab.chunk.js.LICENSE.txt": "/film-attractive-front/static/js/2.dc3490ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81fcb1fc.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.dc3490ab.chunk.js",
+    "static/css/main.b2a0909d.chunk.css",
+    "static/js/main.63249328.chunk.js"
+  ]
+}
